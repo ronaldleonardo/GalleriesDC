@@ -147,12 +147,12 @@ h1{
 }
 
 .next{
-	background-image: url(../img/Right.png);
+	background-image: url(../img/right.png);
 	margin-left: 50px;
 }
 
 .prev{
-	background-image: url(../img/Left.png);
+	background-image: url(../img/left.png);
 	margin-left: -100px;
 }
 
